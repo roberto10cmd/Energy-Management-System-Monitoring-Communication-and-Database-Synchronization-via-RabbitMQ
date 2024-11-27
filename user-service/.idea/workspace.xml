@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b993dcb-99f1-45b1-9284-4e963df1c67d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/src/main/java/MeasurementProducerSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/src/main/java/MeasurementProducerSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/target/classes/MeasurementProducerSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/target/classes/MeasurementProducerSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/src/AdminPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/src/AdminPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/src/ClientPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/src/ClientPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/src/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/src/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/WebSocketConfigSTOMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/WebSocketConfigSTOMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/MeasurementConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/MeasurementConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/UpdateConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/UpdateConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Controller/MeasurementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Controller/MeasurementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/AlertService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/AlertService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../device-service/device-service/src/main/java/com/example/device_service/Controller/DeviceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../device-service/device-service/src/main/java/com/example/device_service/Controller/DeviceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../device-service/device-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../device-service/device-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/energy/management/user/Config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/energy/management/user/Config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/energy/management/user/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/energy/management/user/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2nWNoLRzsKmcznLExDZm6KAwtHB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DS2024_30645_Gradinariu_Robert_Assig1/communication-service&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3081696&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;442cf4015509eda9c03e5ca3aceef752&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;azure&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.UserServiceApplication">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="929ba839-6c73-4db8-92f6-25424e3fcc41" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #8" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="8" requestIdentifier="#8" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.energy.management.user.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #8" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b993dcb-99f1-45b1-9284-4e963df1c67d" name="Changes" comment="" />
+      <created>1729085048102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729085048102</updated>
+      <workItem from="1729085049294" duration="2576000" />
+      <workItem from="1729174916601" duration="284000" />
+      <workItem from="1729175210579" duration="224000" />
+      <workItem from="1729175443111" duration="8165000" />
+      <workItem from="1729188911998" duration="1136000" />
+      <workItem from="1729196758895" duration="310000" />
+      <workItem from="1729240075880" duration="1374000" />
+      <workItem from="1729242409043" duration="562000" />
+      <workItem from="1729243969980" duration="1294000" />
+      <workItem from="1729261086585" duration="685000" />
+      <workItem from="1729263644968" duration="219000" />
+      <workItem from="1729264030684" duration="8463000" />
+      <workItem from="1729284676788" duration="6746000" />
+      <workItem from="1729340525616" duration="14271000" />
+      <workItem from="1729429135100" duration="6673000" />
+      <workItem from="1729462665380" duration="1608000" />
+      <workItem from="1729536115052" duration="3358000" />
+      <workItem from="1729542362948" duration="6104000" />
+      <workItem from="1729596442137" duration="1579000" />
+      <workItem from="1729604120471" duration="3095000" />
+      <workItem from="1729633227203" duration="5355000" />
+      <workItem from="1729669711667" duration="401000" />
+      <workItem from="1729670153565" duration="6740000" />
+      <workItem from="1729698842728" duration="810000" />
+      <workItem from="1729719526496" duration="2341000" />
+      <workItem from="1729768507020" duration="3343000" />
+      <workItem from="1729780033527" duration="2975000" />
+      <workItem from="1729848135427" duration="3183000" />
+      <workItem from="1729964950682" duration="3423000" />
+      <workItem from="1730035860161" duration="736000" />
+      <workItem from="1730060093441" duration="6823000" />
+      <workItem from="1730102872326" duration="3829000" />
+      <workItem from="1730117370127" duration="141000" />
+      <workItem from="1730120398791" duration="1307000" />
+      <workItem from="1730129776656" duration="2142000" />
+      <workItem from="1730154547671" duration="597000" />
+      <workItem from="1730193125588" duration="2791000" />
+      <workItem from="1730212106728" duration="2410000" />
+      <workItem from="1730229838582" duration="4680000" />
+      <workItem from="1730279018533" duration="1476000" />
+      <workItem from="1730298364692" duration="783000" />
+      <workItem from="1730371889781" duration="466000" />
+      <workItem from="1730380543383" duration="6455000" />
+      <workItem from="1730539975129" duration="7000" />
+      <workItem from="1730811661350" duration="1974000" />
+      <workItem from="1730898959408" duration="798000" />
+      <workItem from="1730935756600" duration="86000" />
+      <workItem from="1730986460539" duration="113000" />
+      <workItem from="1731698439341" duration="3642000" />
+      <workItem from="1731763118064" duration="237000" />
+      <workItem from="1731845442995" duration="1309000" />
+      <workItem from="1732011771126" duration="618000" />
+      <workItem from="1732108305486" duration="2205000" />
+      <workItem from="1732118380078" duration="5621000" />
+      <workItem from="1732135845361" duration="3083000" />
+      <workItem from="1732181240033" duration="8712000" />
+      <workItem from="1732363448437" duration="955000" />
+      <workItem from="1732461712925" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

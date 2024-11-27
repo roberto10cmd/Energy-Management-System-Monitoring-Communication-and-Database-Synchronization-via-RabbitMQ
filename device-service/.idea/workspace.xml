@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fac6898f-5412-478f-80ac-69d2919bf9a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/src/main/java/MeasurementProducerSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/src/main/java/MeasurementProducerSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/target/classes/MeasurementProducerSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/target/classes/MeasurementProducerSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/src/AdminPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/src/AdminPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/src/ClientPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/src/ClientPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ass-1-frontend/src/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ass-1-frontend/src/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/WebSocketConfigSTOMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/WebSocketConfigSTOMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/MeasurementConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/MeasurementConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/UpdateConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/UpdateConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Controller/MeasurementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Controller/MeasurementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/DeviceInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/DeviceInfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/MeasurementRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/MeasurementRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/AlertService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/AlertService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/MeasurementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/MeasurementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/device-service/src/main/java/com/example/device_service/Controller/DeviceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/device-service/src/main/java/com/example/device_service/Controller/DeviceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/device-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/device-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/user-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2nd0b1UxcgAEgmRNHOZS8CeJTD4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DS2024_30645_Gradinariu_Robert_Assig1/device-service&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;002ad58ad09e3bd6ffb297f41681a767&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="d47c9d10-8211-4b6b-b6d5-4741bca11969" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="device-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.device_service.DeviceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fac6898f-5412-478f-80ac-69d2919bf9a2" name="Changes" comment="" />
+      <created>1729287713111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729287713111</updated>
+      <workItem from="1729287714429" duration="3873000" />
+      <workItem from="1729341838613" duration="13852000" />
+      <workItem from="1729429155062" duration="12147000" />
+      <workItem from="1729536145350" duration="3357000" />
+      <workItem from="1729542363355" duration="1197000" />
+      <workItem from="1729596089130" duration="1548000" />
+      <workItem from="1729604104374" duration="16000" />
+      <workItem from="1729635780893" duration="3209000" />
+      <workItem from="1729670877625" duration="5962000" />
+      <workItem from="1729696232706" duration="1896000" />
+      <workItem from="1729719472348" duration="1272000" />
+      <workItem from="1729768324920" duration="4103000" />
+      <workItem from="1729780034259" duration="4556000" />
+      <workItem from="1729848134302" duration="5566000" />
+      <workItem from="1729964848829" duration="3798000" />
+      <workItem from="1730035984485" duration="604000" />
+      <workItem from="1730056218824" duration="8515000" />
+      <workItem from="1730102871589" duration="2964000" />
+      <workItem from="1730193759460" duration="1435000" />
+      <workItem from="1730211766145" duration="4261000" />
+      <workItem from="1730385247030" duration="2103000" />
+      <workItem from="1730811680874" duration="2866000" />
+      <workItem from="1730928953869" duration="4601000" />
+      <workItem from="1730986586405" duration="1066000" />
+      <workItem from="1731162150512" duration="6656000" />
+      <workItem from="1731190241196" duration="3152000" />
+      <workItem from="1731194488238" duration="1342000" />
+      <workItem from="1731225054288" duration="4450000" />
+      <workItem from="1731319957517" duration="1732000" />
+      <workItem from="1731420297472" duration="1026000" />
+      <workItem from="1731507020302" duration="1083000" />
+      <workItem from="1731514229410" duration="658000" />
+      <workItem from="1731675840381" duration="469000" />
+      <workItem from="1731685327723" duration="9813000" />
+      <workItem from="1731763135968" duration="219000" />
+      <workItem from="1731845424281" duration="1923000" />
+      <workItem from="1732011758500" duration="886000" />
+      <workItem from="1732035685047" duration="678000" />
+      <workItem from="1732108343431" duration="1586000" />
+      <workItem from="1732120403235" duration="2585000" />
+      <workItem from="1732135813056" duration="1045000" />
+      <workItem from="1732180493743" duration="10504000" />
+      <workItem from="1732461744889" duration="2443000" />
+      <workItem from="1732538272957" duration="602000" />
+      <workItem from="1732623820014" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

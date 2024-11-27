@@ -1,0 +1,14 @@
+POST http://localhost:8084/api/users/login
+
+###
+
+DELETE http://localhost:8084/api/users=1
+
+<> 2024-10-19T000737.404.json
+
+###
+
+POST http://localhost:8080/api/users
+
+###
+

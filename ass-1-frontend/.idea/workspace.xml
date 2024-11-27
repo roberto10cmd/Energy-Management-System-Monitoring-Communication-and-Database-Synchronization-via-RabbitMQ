@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09722944-933d-491b-b040-78775dfbb3df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/src/main/java/MeasurementProducerSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/src/main/java/MeasurementProducerSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeasurementProducerSimulator/target/classes/MeasurementProducerSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MeasurementProducerSimulator/target/classes/MeasurementProducerSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdminPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdminPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoginPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/WebSocketConfigSTOMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Config/WebSocketConfigSTOMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/MeasurementConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/MeasurementConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/UpdateConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Consumers/UpdateConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Controller/MeasurementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Controller/MeasurementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/DeviceInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/DeviceInfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/MeasurementRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Repository/MeasurementRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/AlertService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/AlertService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/MeasurementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/java/com/example/communication_service/Service/MeasurementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../communication-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../communication-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../device-service/device-service/src/main/java/com/example/device_service/Controller/DeviceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../device-service/device-service/src/main/java/com/example/device_service/Controller/DeviceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../device-service/device-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../device-service/device-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/user-service/src/main/java/com/energy/management/user/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-service/user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user-service/user-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nlK17dSEUOYpNFPZKpXdpQ34OT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;WoDocker&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.npm start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09722944-933d-491b-b040-78775dfbb3df" name="Changes" comment="" />
+      <created>1729542005380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729542005380</updated>
+      <workItem from="1729542006362" duration="3365000" />
+      <workItem from="1729546404545" duration="2816000" />
+      <workItem from="1729596132582" duration="2062000" />
+      <workItem from="1729604089541" duration="9591000" />
+      <workItem from="1729669706948" duration="13940000" />
+      <workItem from="1729698789084" duration="3845000" />
+      <workItem from="1729719466916" duration="6156000" />
+      <workItem from="1729752962676" duration="49000" />
+      <workItem from="1729768318944" duration="7605000" />
+      <workItem from="1729780023359" duration="4805000" />
+      <workItem from="1729848114760" duration="11074000" />
+      <workItem from="1729964846213" duration="5544000" />
+      <workItem from="1730035573336" duration="1990000" />
+      <workItem from="1730056203279" duration="12160000" />
+      <workItem from="1730102836526" duration="5636000" />
+      <workItem from="1730129822326" duration="2426000" />
+      <workItem from="1730154532717" duration="603000" />
+      <workItem from="1730192747322" duration="1962000" />
+      <workItem from="1730211808888" duration="5626000" />
+      <workItem from="1730229810720" duration="5534000" />
+      <workItem from="1730279004498" duration="1287000" />
+      <workItem from="1730298357298" duration="1528000" />
+      <workItem from="1730326974804" duration="4000" />
+      <workItem from="1730367122451" duration="77000" />
+      <workItem from="1730376781530" duration="10353000" />
+      <workItem from="1731324844329" duration="483000" />
+      <workItem from="1731325526927" duration="5560000" />
+      <workItem from="1731420270197" duration="3974000" />
+      <workItem from="1731514405778" duration="4331000" />
+      <workItem from="1731699379847" duration="595000" />
+      <workItem from="1731703475174" duration="3006000" />
+      <workItem from="1731758419738" duration="2102000" />
+      <workItem from="1731845257178" duration="1492000" />
+      <workItem from="1732011747334" duration="7484000" />
+      <workItem from="1732104940322" duration="7713000" />
+      <workItem from="1732118346243" duration="6789000" />
+      <workItem from="1732135782326" duration="3151000" />
+      <workItem from="1732179234714" duration="4029000" />
+      <workItem from="1732183319558" duration="21216000" />
+      <workItem from="1732359526699" duration="5734000" />
+      <workItem from="1732461696724" duration="595000" />
+      <workItem from="1732530368800" duration="5657000" />
+      <workItem from="1732622773130" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/AdminPage.js</url>
+          <line>86</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
